@@ -672,7 +672,7 @@ class _FresherPostState extends State<FresherPost> {
         "status": "done",
         "sound": 'default',
       },
-      "to": "/topics/search"
+      "to": "/topics/jobs"
     };
 
     final headers = {
